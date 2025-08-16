@@ -1,8 +1,17 @@
 # prompt-engineering-bootcamp
 A 30-day journey into Prompt Engineering — daily notes, practice prompts, and projects to master AI interactions and build real-world skills.
+# 🚀 Prompt Engineering Bootcamp  
+
+A **30-day journey** into Prompt Engineering — daily notes, practice prompts, and projects to master AI interactions and build real-world skills.  
+
+---
+
+## 📂 Project Structure  
+
+```tree
 prompt-engineering-bootcamp/
 │
-├── README.md              # Overview of your bootcamp
+├── README.md              # Overview of the bootcamp
 ├── Week1_Foundations/
 │   ├── Day01_Basics.md
 │   ├── Day02_PromptStructure.md
@@ -46,4 +55,3 @@ prompt-engineering-bootcamp/
     ├── LearnPrompting_Certificate.pdf
     ├── GoogleAI_Badge.png
     └── MicrosoftAI_Badge.png
-
